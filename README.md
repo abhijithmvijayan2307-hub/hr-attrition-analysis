@@ -188,7 +188,16 @@ valuable than a high accuracy model that misses most leavers.
 - Individual risk scores for all 1,470 employees
 - Conditional formatting — Red/Amber/Green by Risk Level
 - Filterable by Risk Level, Department, OverTime
+## 📸 Dashboard Screenshots
 
+### Page 1 — Executive Overview
+![Overview](assets/dashboard_overview.png)
+
+### Page 2 — Risk Analysis
+![Risk Analysis](assets/dashboard_risk.png)
+
+### Page 3 — Employee Risk Table
+![Risk Table](assets/dashboard_table.png)
 ---
 
 ## ▶️ How to Run This Project
