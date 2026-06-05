@@ -204,7 +204,7 @@ valuable than a high accuracy model that misses most leavers.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/abhijithmvijayan2307-hub/hr-attrition-analysis.git
+git clone https://github.com/@abhijith-mvijayan/hr-attrition-analysis.git
 
 # 2. Navigate to project folder
 cd hr-attrition-analysis
@@ -225,6 +225,6 @@ pip install -r requirements.txt
 ## 📬 Contact
 
 **Abhijith M Vijayan**
-- GitHub: [@abhijithmvijayan2307-hub](https://github.com/abhijithmvijayan2307-hub)
+- GitHub: [@abhijith-mvijayan](https://github.com/@abhijith-mvijayan)
 
 ---
